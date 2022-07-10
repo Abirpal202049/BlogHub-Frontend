@@ -64,7 +64,7 @@ export default function SingleBlog({ Heading }) {
                   party. Locavore small batch listicle gastropub farm-to-table
                   lumbersexual salvia messenger bag. Coloring book flannel
                   truffaut craft beer drinking vinegar sartorial, disrupt
-                  fashion axe normcore meh butcher. Portland 90's scenester
+                  fashion axe normcore meh butcher. Portland 90s scenester
                   vexillologist forage post-ironic asymmetrical, chartreuse
                   disrupt butcher paleo intelligentsia pabst before they sold
                   out four loko. 3 wolf moon brooklyn.
