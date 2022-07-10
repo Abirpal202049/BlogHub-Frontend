@@ -48,15 +48,15 @@ export default function Blogs({ data }) {
                         Read More
                       </a>
                     </Link>
-                    <div class="text-center mt-2 leading-none flex justify-center absolute bottom-0 left-0 w-full py-4">
-                      <span class="text-gray-700 gap-2 mr-3 inline-flex items-center leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
-                        <div class="border border-gray-700 p-1 flex justify-center items-center bg-slate-400 rounded-full">
+                    <div className="text-center mt-2 leading-none flex justify-center absolute bottom-0 left-0 w-full py-4">
+                      <span className="text-gray-700 gap-2 mr-3 inline-flex items-center leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+                        <div className="border border-gray-700 p-1 flex justify-center items-center bg-slate-400 rounded-full">
                           <AiOutlineUser />
                         </div>
                         Krishnendu Das
                       </span>
 
-                      <span class="text-gray-700 gap-1 inline-flex items-center leading-none text-sm">
+                      <span className="text-gray-700 gap-1 inline-flex items-center leading-none text-sm">
                         <div>
                           <MdDateRange size={20} />
                         </div>
